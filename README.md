@@ -1,2 +1,3 @@
-# Template
-Template for abapGit CI Tests
+# SSFO_ABAP
+
+Smartform with separate ABAP files for coding
